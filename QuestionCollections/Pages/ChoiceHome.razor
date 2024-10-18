@@ -1,0 +1,129 @@
+﻿@page "/choices/{QuestionId:int}"
+@inject ChoiceService ChoiceService
+@inject QuestionService QuestionService
+
+<h3>Choices for: @question.Name </h3>
+
+
+<!-- Form for adding and editing choices -->
+<EditForm Model="choice" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="choiceText">Choice Text:</label>
+        <InputText id="choiceText" @bind-Value="choice.Text" class="form-control" />
+    </div>
+
+    <div>
+        <label for="isCorrect">Is Correct:</label>
+        <InputCheckbox id="isCorrect" @bind-Value="choice.IsCorrect"  />
+    </div>
+
+    <div class="mt-2">
+        <button type="submit" class="btn btn-primary" disabled="@(choices.Count >= 4 && !isEditMode)">@(isEditMode ? "Update" : "Add") Choice</button>
+        <button type="button" class="btn btn-secondary" @onclick="ClearForm">Cancel</button>
+    </div>
+</EditForm>
+
+<hr />
+
+@if (choices.Count < 4)
+{
+    <p>You can add up to 4 choices. Currently, you have @choices.Count choice(s).</p>
+}
+<!-- List of Choices -->
+@if (choices != null)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Text</th>
+                <th>Is Correct</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in choices)
+            {
+                <tr>
+                    <td>@c.Id</td>
+                    <td>@c.Text</td>
+                    <td>@c.IsCorrect</td>
+                    <td>
+                        <button class="btn btn-primary" @onclick="() => EditChoice(c.Id)">Edit</button>
+                        <button class="btn btn-danger" @onclick="() => DeleteChoice(c.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+@code {
+    [Parameter] public int QuestionId { get; set; }
+
+    private List<Choice> choices = new List<Choice>();
+    private Choice choice = new Choice();
+    private Question question = new Question();
+    private bool isEditMode = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadQuestion();
+        await LoadChoices();
+    }
+
+    private async Task LoadQuestion()
+    {
+        question = await QuestionService.GetQuestionByIdAsync(QuestionId);
+    }
+
+    private async Task LoadChoices()
+    {
+        choices = await ChoiceService.GetChoicesAsync(QuestionId);
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        choice.QuestionId = QuestionId;
+
+        if (isEditMode)
+        {
+            await ChoiceService.UpdateChoiceAsync(choice);
+        }
+        else
+        {
+            if (choices.Count < 4) // Ensure maximum 4 choices
+            {
+                await ChoiceService.AddChoiceAsync(choice);
+            }
+        }
+
+        await LoadChoices();
+        ClearForm();
+    }
+
+    private void ClearForm()
+    {
+        choice = new Choice();
+        isEditMode = false;
+    }
+
+    private async Task EditChoice(int id)
+    {
+        choice = await ChoiceService.GetChoiceByIdAsync(id);
+        isEditMode = true;
+    }
+
+    private async Task DeleteChoice(int id)
+    {
+        await ChoiceService.DeleteChoiceAsync(id);
+        await LoadChoices();
+    }
+
+    
+}

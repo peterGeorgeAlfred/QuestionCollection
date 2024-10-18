@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuestionCollections.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuestionCollections.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-1089ea0d-2906-40bd-bfb0-3c183fff1f3f.jpg",
+      "PackagePath": "staticwebassets\\upload-2024-10-17-1089ea0d-2906-40bd-bfb0-3c183fff1f3f.jpg"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-6a7ea6f8-245e-482e-b72a-a30a35ee2c7a.jpg",
+      "PackagePath": "staticwebassets\\upload-2024-10-17-6a7ea6f8-245e-482e-b72a-a30a35ee2c7a.jpg"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-a0c2702c-88f0-40d5-8c8f-09dc7279546a.jpg",
+      "PackagePath": "staticwebassets\\upload-2024-10-17-a0c2702c-88f0-40d5-8c8f-09dc7279546a.jpg"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-c21ff081-ac66-4e18-a3d3-180e8fc59fd9.jpg",
+      "PackagePath": "staticwebassets\\upload-2024-10-17-c21ff081-ac66-4e18-a3d3-180e8fc59fd9.jpg"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-f9b9a33b-048f-4b35-a8f9-af15316e6edf.png",
+      "PackagePath": "staticwebassets\\upload-2024-10-17-f9b9a33b-048f-4b35-a8f9-af15316e6edf.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QuestionCollections.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QuestionCollections.props",
+      "PackagePath": "build\\QuestionCollections.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QuestionCollections.props",
+      "PackagePath": "buildMultiTargeting\\QuestionCollections.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QuestionCollections.props",
+      "PackagePath": "buildTransitive\\QuestionCollections.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
