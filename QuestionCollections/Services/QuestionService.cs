@@ -2,7 +2,7 @@
 using QuestionCollections.Data;
 using QuestionCollections.Models;
 
-public class QuestionService
+public class QuestionService : IDisposable
 {
     private readonly ApplicationDbContext _context;
 
@@ -41,5 +41,10 @@ public class QuestionService
             _context.Questions.Remove(question);
             await _context.SaveChangesAsync();
         }
+    }
+
+    public void Dispose()
+    {
+
     }
 }

@@ -84,7 +84,7 @@
 
     private void ClearForm()
     {
-        
+
         category = new Category();
         isEditMode = false;
     }
@@ -101,4 +101,9 @@
         await CategoryService.DeleteCategoryAsync(id);
         await LoadCategories();
     }
+    public void Dispose()
+    {
+        CategoryService.Dispose();
+    }
+
 }

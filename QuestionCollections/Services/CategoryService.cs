@@ -2,7 +2,7 @@
 using QuestionCollections.Data;
 using QuestionCollections.Models;
 
-public class CategoryService
+public class CategoryService : IDisposable
 {
     private readonly ApplicationDbContext _context;
 
@@ -13,6 +13,7 @@ public class CategoryService
 
     public async Task<List<Category>> GetCategoriesAsync()
     {
+
         return await _context.Categories.ToListAsync();
     }
 
@@ -40,6 +41,14 @@ public class CategoryService
         {
             _context.Categories.Remove(category);
             await _context.SaveChangesAsync();
+        }
+    }
+
+    public void Dispose()
+    {
+        if (_context != null)
+        {
+            _context.Dispose();
         }
     }
 }

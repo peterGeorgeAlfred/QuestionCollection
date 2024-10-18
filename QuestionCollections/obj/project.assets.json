@@ -2965,11 +2965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Peter\\QuestionCollections\\QuestionCollections\\QuestionCollections.csproj",
+      "projectUniqueName": "D:\\Peter\\QuestionCollection\\QuestionCollections\\QuestionCollections.csproj",
       "projectName": "QuestionCollections",
-      "projectPath": "D:\\Peter\\QuestionCollections\\QuestionCollections\\QuestionCollections.csproj",
+      "projectPath": "D:\\Peter\\QuestionCollection\\QuestionCollections\\QuestionCollections.csproj",
       "packagesPath": "C:\\Users\\p.alfred.ext\\.nuget\\packages\\",
-      "outputPath": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\",
+      "outputPath": "D:\\Peter\\QuestionCollection\\QuestionCollections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

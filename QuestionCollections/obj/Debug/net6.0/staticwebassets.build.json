@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lyUoydo9vQCRQSeKveRYW4oZiE4crHSCec3EpkYdObo=",
+  "Hash": "K8cnRElhpz8VEZw9MaLqoRquz9JARuXmsfH9AVe0+ME=",
   "Source": "QuestionCollections",
   "BasePath": "_content/QuestionCollections",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "QuestionCollections\\wwwroot",
       "Source": "QuestionCollections",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "Pattern": "**"
     }
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "C:\\Users\\p.alfred.ext\\.nuget\\packages\\radzen.blazor\\5.3.1\\staticwebassets\\Radzen.Blazor.js"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\bundle\\QuestionCollections.styles.css",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\bundle\\QuestionCollections.styles.css",
       "SourceId": "QuestionCollections",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "QuestionCollections.styles.css",
       "AssetKind": "All",
@@ -2028,13 +2028,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\bundle\\QuestionCollections.styles.css"
+      "OriginalItemSpec": "D:\\Peter\\QuestionCollection\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\bundle\\QuestionCollections.styles.css"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuestionCollections.bundle.scp.css",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuestionCollections.bundle.scp.css",
       "SourceId": "QuestionCollections",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "QuestionCollections.bundle.scp.css",
       "AssetKind": "All",
@@ -2047,13 +2047,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Peter\\QuestionCollections\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuestionCollections.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Peter\\QuestionCollection\\QuestionCollections\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuestionCollections.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\css\\site.css",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\favicon.ico",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2297,12 +2297,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-1089ea0d-2906-40bd-bfb0-3c183fff1f3f.jpg",
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-4d12fa96-4960-4b8b-a99c-623e8e0bf176.jpg",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
       "BasePath": "_content/QuestionCollections",
-      "RelativePath": "upload-2024-10-17-1089ea0d-2906-40bd-bfb0-3c183fff1f3f.jpg",
+      "RelativePath": "upload-2024-10-18-4d12fa96-4960-4b8b-a99c-623e8e0bf176.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2313,83 +2313,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload-2024-10-17-1089ea0d-2906-40bd-bfb0-3c183fff1f3f.jpg"
-    },
-    {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-6a7ea6f8-245e-482e-b72a-a30a35ee2c7a.jpg",
-      "SourceId": "QuestionCollections",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
-      "BasePath": "_content/QuestionCollections",
-      "RelativePath": "upload-2024-10-17-6a7ea6f8-245e-482e-b72a-a30a35ee2c7a.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload-2024-10-17-6a7ea6f8-245e-482e-b72a-a30a35ee2c7a.jpg"
-    },
-    {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-a0c2702c-88f0-40d5-8c8f-09dc7279546a.jpg",
-      "SourceId": "QuestionCollections",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
-      "BasePath": "_content/QuestionCollections",
-      "RelativePath": "upload-2024-10-17-a0c2702c-88f0-40d5-8c8f-09dc7279546a.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload-2024-10-17-a0c2702c-88f0-40d5-8c8f-09dc7279546a.jpg"
-    },
-    {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-c21ff081-ac66-4e18-a3d3-180e8fc59fd9.jpg",
-      "SourceId": "QuestionCollections",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
-      "BasePath": "_content/QuestionCollections",
-      "RelativePath": "upload-2024-10-17-c21ff081-ac66-4e18-a3d3-180e8fc59fd9.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload-2024-10-17-c21ff081-ac66-4e18-a3d3-180e8fc59fd9.jpg"
-    },
-    {
-      "Identity": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\upload-2024-10-17-f9b9a33b-048f-4b35-a8f9-af15316e6edf.png",
-      "SourceId": "QuestionCollections",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Peter\\QuestionCollections\\QuestionCollections\\wwwroot\\",
-      "BasePath": "_content/QuestionCollections",
-      "RelativePath": "upload-2024-10-17-f9b9a33b-048f-4b35-a8f9-af15316e6edf.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload-2024-10-17-f9b9a33b-048f-4b35-a8f9-af15316e6edf.png"
+      "OriginalItemSpec": "wwwroot\\upload-2024-10-18-4d12fa96-4960-4b8b-a99c-623e8e0bf176.jpg"
     }
   ]
 }
