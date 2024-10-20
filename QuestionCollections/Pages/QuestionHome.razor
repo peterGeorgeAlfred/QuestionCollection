@@ -20,6 +20,7 @@
                 <th>Id</th>
                 <th>Header</th>
                 <th>Category</th>
+                <th>Is High yield</th>
                 <th>Choices</th>
                 <th>Actions</th>
             </tr>
@@ -31,6 +32,7 @@
                     <td>@q.Id</td>
                     <td>@q.Name</td>
                     <td>@q.Category.Name</td>
+                    <td>@q.HighYield</td>
                     <td>@q.Choices.Count</td>
                     <td>
                         <button class="btn btn-primary" @onclick="() => GoToEditQuestion(q.Id)">Edit</button>

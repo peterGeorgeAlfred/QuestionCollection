@@ -16,7 +16,11 @@
     </div>
     <div class="mt-3">
         <label for="explanation">Explanation:</label>
-        <InputTextArea row="10" id="explanation" @bind-Value="question.Explanation" class="form-control" />
+        <RadzenHtmlEditor @bind-Value=@question.Explanation style="height: 450px;" Input=@OnInput Change=@OnChange Paste=@OnPaste UploadComplete=@OnUploadComplete Execute=@OnExecute UploadUrl="upload/image" />
+    </div>
+    <div>
+        <label for="IsHighYield">Is High yield:</label>
+        <InputCheckbox id="IsHighYield" @bind-Value="question.HighYield" />
     </div>
     <div class="mt-3">
         <label for="categoryId">Category:</label>
