@@ -57,8 +57,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-418ed62b-ec04-425e-b1b8-1470c208a46f.webp",
+      "PackagePath": "staticwebassets\\upload-2024-10-18-418ed62b-ec04-425e-b1b8-1470c208a46f.webp"
+    },
+    {
       "Id": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-4d12fa96-4960-4b8b-a99c-623e8e0bf176.jpg",
       "PackagePath": "staticwebassets\\upload-2024-10-18-4d12fa96-4960-4b8b-a99c-623e8e0bf176.jpg"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-4f750c7b-6a57-4409-94bb-988b47ddb199.png",
+      "PackagePath": "staticwebassets\\upload-2024-10-18-4f750c7b-6a57-4409-94bb-988b47ddb199.png"
+    },
+    {
+      "Id": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-55fe5389-0276-4c9d-898b-370a08d3fa13.webp",
+      "PackagePath": "staticwebassets\\upload-2024-10-18-55fe5389-0276-4c9d-898b-370a08d3fa13.webp"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QuestionCollections.Microsoft.AspNetCore.StaticWebAssets.props",

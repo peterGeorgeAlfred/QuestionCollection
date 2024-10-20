@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "K8cnRElhpz8VEZw9MaLqoRquz9JARuXmsfH9AVe0+ME=",
+  "Hash": "WWdsNVBzlvV8SwQ7knJ0x+hRcpSLY/6Qc/DRV1Rob3g=",
   "Source": "QuestionCollections",
   "BasePath": "_content/QuestionCollections",
   "Mode": "Default",
@@ -2297,6 +2297,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-418ed62b-ec04-425e-b1b8-1470c208a46f.webp",
+      "SourceId": "QuestionCollections",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
+      "BasePath": "_content/QuestionCollections",
+      "RelativePath": "upload-2024-10-18-418ed62b-ec04-425e-b1b8-1470c208a46f.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload-2024-10-18-418ed62b-ec04-425e-b1b8-1470c208a46f.webp"
+    },
+    {
       "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-4d12fa96-4960-4b8b-a99c-623e8e0bf176.jpg",
       "SourceId": "QuestionCollections",
       "SourceType": "Discovered",
@@ -2314,6 +2333,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\upload-2024-10-18-4d12fa96-4960-4b8b-a99c-623e8e0bf176.jpg"
+    },
+    {
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-4f750c7b-6a57-4409-94bb-988b47ddb199.png",
+      "SourceId": "QuestionCollections",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
+      "BasePath": "_content/QuestionCollections",
+      "RelativePath": "upload-2024-10-18-4f750c7b-6a57-4409-94bb-988b47ddb199.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload-2024-10-18-4f750c7b-6a57-4409-94bb-988b47ddb199.png"
+    },
+    {
+      "Identity": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\upload-2024-10-18-55fe5389-0276-4c9d-898b-370a08d3fa13.webp",
+      "SourceId": "QuestionCollections",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Peter\\QuestionCollection\\QuestionCollections\\wwwroot\\",
+      "BasePath": "_content/QuestionCollections",
+      "RelativePath": "upload-2024-10-18-55fe5389-0276-4c9d-898b-370a08d3fa13.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload-2024-10-18-55fe5389-0276-4c9d-898b-370a08d3fa13.webp"
     }
   ]
 }

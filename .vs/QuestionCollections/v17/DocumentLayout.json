@@ -3,16 +3,35 @@
   "WorkspaceRootPath": "D:\\Peter\\QuestionCollection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\pages\\questionhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\pages\\questionhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\component\\questionform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\component\\questionform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Peter\\Publsih\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\component\\questionform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\component\\questionform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\pages\\questionhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\pages\\questionhome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +50,6 @@
       "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\services\\choiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|d:\\peter\\questioncollection\\questioncollections\\pages\\choicehome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4DE98B6-3F3A-4567-AEC6-5A3D4393531F}|QuestionCollections\\QuestionCollections.csproj|solutionrelative:questioncollections\\pages\\choicehome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -50,11 +61,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "QuestionForm.razor",
               "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Component\\QuestionForm.razor",
               "RelativeDocumentMoniker": "QuestionCollections\\Component\\QuestionForm.razor",
@@ -68,119 +79,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "QuestionCollections\\Shared\\NavMenu.razor",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "QuestionCollections\\Shared\\NavMenu.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T17:03:32.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "QuestionHome.razor",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\QuestionHome.razor",
-              "RelativeDocumentMoniker": "QuestionCollections\\Pages\\QuestionHome.razor",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\QuestionHome.razor",
-              "RelativeToolTip": "QuestionCollections\\Pages\\QuestionHome.razor",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:32:40.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QuestionService.cs",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\QuestionService.cs",
-              "RelativeDocumentMoniker": "QuestionCollections\\Services\\QuestionService.cs",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\QuestionService.cs",
-              "RelativeToolTip": "QuestionCollections\\Services\\QuestionService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAmwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:27:54.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryHome.razor",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\CategoryHome.razor",
-              "RelativeDocumentMoniker": "QuestionCollections\\Pages\\CategoryHome.razor",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\CategoryHome.razor",
-              "RelativeToolTip": "QuestionCollections\\Pages\\CategoryHome.razor",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:35:13.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "QuestionCollections\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\CategoryService.cs",
-              "RelativeToolTip": "QuestionCollections\\Services\\CategoryService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:28:28.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChoiceService.cs",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\ChoiceService.cs",
-              "RelativeDocumentMoniker": "QuestionCollections\\Services\\ChoiceService.cs",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\ChoiceService.cs",
-              "RelativeToolTip": "QuestionCollections\\Services\\ChoiceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:29:43.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Program.cs",
-              "RelativeDocumentMoniker": "QuestionCollections\\Program.cs",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Program.cs",
-              "RelativeToolTip": "QuestionCollections\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:11:37.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\appsettings.json",
-              "RelativeDocumentMoniker": "QuestionCollections\\appsettings.json",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\appsettings.json",
-              "RelativeToolTip": "QuestionCollections\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-18T12:51:48.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChoiceHome.razor",
-              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\ChoiceHome.razor",
-              "RelativeDocumentMoniker": "QuestionCollections\\Pages\\ChoiceHome.razor",
-              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\ChoiceHome.razor",
-              "RelativeToolTip": "QuestionCollections\\Pages\\ChoiceHome.razor",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T13:10:36.329Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Dockerfile",
+              "RelativeDocumentMoniker": "QuestionCollections\\Dockerfile",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Dockerfile",
+              "RelativeToolTip": "QuestionCollections\\Dockerfile",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T19:21:29.727Z",
               "EditorCaption": ""
             },
             {
@@ -246,6 +153,138 @@
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "QuestionCollections\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "QuestionCollections\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:07:52.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Program.cs",
+              "RelativeDocumentMoniker": "QuestionCollections\\Program.cs",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Program.cs",
+              "RelativeToolTip": "QuestionCollections\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:11:37.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "QuestionCollections\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "QuestionCollections\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T17:03:32.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionHome.razor",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\QuestionHome.razor",
+              "RelativeDocumentMoniker": "QuestionCollections\\Pages\\QuestionHome.razor",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\QuestionHome.razor",
+              "RelativeToolTip": "QuestionCollections\\Pages\\QuestionHome.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:32:40.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\appsettings.json",
+              "RelativeDocumentMoniker": "QuestionCollections\\appsettings.json",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\appsettings.json",
+              "RelativeToolTip": "QuestionCollections\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T12:51:48.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Peter\\Publsih\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Publsih\\appsettings.json",
+              "ToolTip": "D:\\Peter\\Publsih\\appsettings.json",
+              "RelativeToolTip": "..\\Publsih\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T18:08:55.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\QuestionService.cs",
+              "RelativeDocumentMoniker": "QuestionCollections\\Services\\QuestionService.cs",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\QuestionService.cs",
+              "RelativeToolTip": "QuestionCollections\\Services\\QuestionService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:27:54.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryHome.razor",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\CategoryHome.razor",
+              "RelativeDocumentMoniker": "QuestionCollections\\Pages\\CategoryHome.razor",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\CategoryHome.razor",
+              "RelativeToolTip": "QuestionCollections\\Pages\\CategoryHome.razor",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:35:13.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "QuestionCollections\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\CategoryService.cs",
+              "RelativeToolTip": "QuestionCollections\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:28:28.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChoiceService.cs",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\ChoiceService.cs",
+              "RelativeDocumentMoniker": "QuestionCollections\\Services\\ChoiceService.cs",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Services\\ChoiceService.cs",
+              "RelativeToolTip": "QuestionCollections\\Services\\ChoiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:29:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChoiceHome.razor",
+              "DocumentMoniker": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\ChoiceHome.razor",
+              "RelativeDocumentMoniker": "QuestionCollections\\Pages\\ChoiceHome.razor",
+              "ToolTip": "D:\\Peter\\QuestionCollection\\QuestionCollections\\Pages\\ChoiceHome.razor",
+              "RelativeToolTip": "QuestionCollections\\Pages\\ChoiceHome.razor",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:10:36.329Z"
             }
           ]
         }
