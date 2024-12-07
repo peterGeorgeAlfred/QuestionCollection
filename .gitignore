@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/questioncollections.metadata.v8.bin
+/.vs/ProjectEvaluation/questioncollections.projects.v8.bin
+/.vs/ProjectEvaluation/questioncollections.strings.v8.bin
+/.vs/QuestionCollections/v17/.suo
+/.vs/QuestionCollections/v17/DocumentLayout.json
+/QuestionCollections/obj/Debug/net6.0/project.razor.vs.bin
+/QuestionCollections/obj/Debug/net6.0/QuestionCollections.AssemblyInfo.cs
+/QuestionCollections/obj/Debug/net6.0/QuestionCollections.AssemblyInfoInputs.cache
+/QuestionCollections/obj/QuestionCollections.csproj.nuget.dgspec.json
+/QuestionCollections/obj/project.assets.json
+/QuestionCollections/obj/project.nuget.cache
